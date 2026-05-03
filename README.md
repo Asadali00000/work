@@ -1,4 +1,4 @@
-# 🚖 Ride-Hailing Backend — Client Portfolio
+# 🚖 Ride-Hailing Platform — Live Products
 
 > White-label Uber/Rapido-style platform built at **Satya Kabir E-Solutions Pvt. Ltd.**  
 > One production-grade backend, customized and shipped for 5 independent cab businesses across India.
